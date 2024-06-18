@@ -1,6 +1,6 @@
 package br.com.evertonsantos.gestao_vagas.modules.company.controllers;
 
-import javax.naming.AuthenticationException;
+
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
